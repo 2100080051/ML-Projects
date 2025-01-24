@@ -7,7 +7,7 @@ import seaborn as sns
 import os
 
 # Load your trained model (replace with your model's path)
-model = load_model("model_file_30epochs.h5")  # Replace with the actual model path
+model = load_model("emotion_detection_model.h5")  # Replace with the actual model path
 
 # Emotion labels starting from index 0
 emotion_labels = ["Angry", "Disgust", "Fear", "Happy", "Sad", "Neutral", "Surprise"]
