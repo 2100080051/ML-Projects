@@ -78,9 +78,9 @@ def display_local_images():
 
     # Replace with your image paths
     image_paths = [
-        "C:\\Users\\nabhi\\Downloads\\pythonProject2\\1.png",
-        "C:\\Users\\nabhi\\Downloads\\pythonProject2\\2.png",
-        "C:\\Users\\nabhi\\Downloads\\pythonProject2\\training_validation_accuracy.png"
+        "1.png",
+        "2.png",
+        "training_validation_accuracy.png"
     ]
 
     for img_path in image_paths:
